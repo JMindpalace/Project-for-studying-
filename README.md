@@ -3,3 +3,6 @@
 
 추가 내용
 1. pytest
+
+2. 캐글 github 연동
+3. github Kaggle Badge
