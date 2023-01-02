@@ -1,28 +1,3 @@
-# Python Project - Game market predict
-` Using vgames2 csv file `
-
-- EDA, Feature Engineering, Data Manipulation, Data Visualization, Data wragling
-- Bayesian, Confidence interval, Hypothesis Test, AB Test
-- Linear Algebra, Bimensionality Reductioni, PCA, Clustering, Gradient Descent
-- 위의 배운 내용을 활용하여 필수&최소 미션 등 8분 이내의 발표를 준비하세요
-
-
-## 진행
-- 필수 미션
-  - 비데이터 직군의 청자도 이해하는 내용
-  - 다음 분기에 어떤 게임을 설계해야 할까?
-
-- 최소 미션
-  - 지역에 따른 선호하는 게임
-  - 플랫폼별 성향
-  - 연도별 게임 트렌트 여부
-
-
-
-## 평가 기준
-1. 얼굴과 목소리가 나오는 8분 이내의 영상 촬영
-2. 최소 미션 3가지를 설명하는 내용
-3. 다음 분기 게임 설계 결론을 제시
 
 ## 참고 평가 기준
   ### 프레젠테이션
