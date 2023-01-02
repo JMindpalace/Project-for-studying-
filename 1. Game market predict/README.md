@@ -27,11 +27,6 @@
     3. 주어진 데이터 이외의 도메인 지식 여부
     4. 적절한 시각화 및 강조 부분 표현 여부
 
-참고 사이트
-1. 공공데이터 포털 : https://www.finereport.com/kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ec%98%a4%ed%94%88-%ea%b3%b5%ea%b3%b5%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%86%8c%ec%8a%a4-%ed%8f%ac%ed%84%b8-20%ea%b0%80/?utm_source=media&utm_medium=facebook&utm_campaign=1&utm_term=1&fbclid=IwAR0w2jhUwJIPsj9mlSCwp9o30pm4cjld7GvZjepRdtrljBFsqLzQE8VWqzc
-
-2. 데이터 시각화 가이드 : https://jehyunlee.github.io/2021/05/24/Python-DS-74-datavisguide/?fbclid=IwAR1SDQKDtv-wQypSzPGafq8i5EuKGHFyiSD7sDQSty5Lt6ktFIMVYMqFdsk
-
 ---
 
 # 발표 준비 - 주관적 평가
@@ -44,6 +39,5 @@
   3. 최근 10년 시장 데이터를 추가해야함
 
 # 발표 준비 - 코치 평가
-시각화(공통 피드백) - https://codestates.notion.site/codestates/4cd7bd12679b41d58fef5370c0fc3b7c <br>
 프로젝트 점검 - https://github.com/codestates/ai15-section1-project <br>
 개인 피드백 - https://github.com/codestates/ai15-section1-project/issues/40
